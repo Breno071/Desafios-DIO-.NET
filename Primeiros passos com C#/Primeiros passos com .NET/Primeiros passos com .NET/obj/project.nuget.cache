@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JZG3tafArbFmiil2W5NqkWk23as6tA6S7az3LHuO/6QdZ+ZbWn+1VE2f7FXjBj6pei/0HI5Y4y79umhkUkXqjg==",
+  "success": true,
+  "projectFilePath": "D:\\Narde\\Desafios-DIO .NET\\Primeiros passos com C#\\Primeiros passos com .NET\\Primeiros passos com .NET\\Primeiros passos com .NET.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Narde\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.19\\microsoft.netcore.app.host.win-x64.3.1.19.nupkg.sha512"
+  ],
+  "logs": []
+}

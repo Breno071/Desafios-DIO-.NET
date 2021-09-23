@@ -1,0 +1,14 @@
+D:\Narde\Desafios-DIO .NET\Desafios Introdutórios com C#\Desafios Introdutórios com .NET\Desafios Introdutórios com .NET\bin\Debug\netcoreapp3.1\Desafios Introdutórios com .NET.exe
+D:\Narde\Desafios-DIO .NET\Desafios Introdutórios com C#\Desafios Introdutórios com .NET\Desafios Introdutórios com .NET\bin\Debug\netcoreapp3.1\Desafios Introdutórios com .NET.deps.json
+D:\Narde\Desafios-DIO .NET\Desafios Introdutórios com C#\Desafios Introdutórios com .NET\Desafios Introdutórios com .NET\bin\Debug\netcoreapp3.1\Desafios Introdutórios com .NET.runtimeconfig.json
+D:\Narde\Desafios-DIO .NET\Desafios Introdutórios com C#\Desafios Introdutórios com .NET\Desafios Introdutórios com .NET\bin\Debug\netcoreapp3.1\Desafios Introdutórios com .NET.runtimeconfig.dev.json
+D:\Narde\Desafios-DIO .NET\Desafios Introdutórios com C#\Desafios Introdutórios com .NET\Desafios Introdutórios com .NET\bin\Debug\netcoreapp3.1\Desafios Introdutórios com .NET.dll
+D:\Narde\Desafios-DIO .NET\Desafios Introdutórios com C#\Desafios Introdutórios com .NET\Desafios Introdutórios com .NET\bin\Debug\netcoreapp3.1\Desafios Introdutórios com .NET.pdb
+D:\Narde\Desafios-DIO .NET\Desafios Introdutórios com C#\Desafios Introdutórios com .NET\Desafios Introdutórios com .NET\obj\Debug\netcoreapp3.1\Desafios Introdutórios com .NET.csproj.AssemblyReference.cache
+D:\Narde\Desafios-DIO .NET\Desafios Introdutórios com C#\Desafios Introdutórios com .NET\Desafios Introdutórios com .NET\obj\Debug\netcoreapp3.1\Desafios Introdutórios com .NET.GeneratedMSBuildEditorConfig.editorconfig
+D:\Narde\Desafios-DIO .NET\Desafios Introdutórios com C#\Desafios Introdutórios com .NET\Desafios Introdutórios com .NET\obj\Debug\netcoreapp3.1\Desafios Introdutórios com .NET.AssemblyInfoInputs.cache
+D:\Narde\Desafios-DIO .NET\Desafios Introdutórios com C#\Desafios Introdutórios com .NET\Desafios Introdutórios com .NET\obj\Debug\netcoreapp3.1\Desafios Introdutórios com .NET.AssemblyInfo.cs
+D:\Narde\Desafios-DIO .NET\Desafios Introdutórios com C#\Desafios Introdutórios com .NET\Desafios Introdutórios com .NET\obj\Debug\netcoreapp3.1\Desafios Introdutórios com .NET.csproj.CoreCompileInputs.cache
+D:\Narde\Desafios-DIO .NET\Desafios Introdutórios com C#\Desafios Introdutórios com .NET\Desafios Introdutórios com .NET\obj\Debug\netcoreapp3.1\Desafios Introdutórios com .NET.dll
+D:\Narde\Desafios-DIO .NET\Desafios Introdutórios com C#\Desafios Introdutórios com .NET\Desafios Introdutórios com .NET\obj\Debug\netcoreapp3.1\Desafios Introdutórios com .NET.pdb
+D:\Narde\Desafios-DIO .NET\Desafios Introdutórios com C#\Desafios Introdutórios com .NET\Desafios Introdutórios com .NET\obj\Debug\netcoreapp3.1\Desafios Introdutórios com .NET.genruntimeconfig.cache
