@@ -1,0 +1,14 @@
+D:\Narde\Desafios-DIO .NET\Primeiros desafios com C#\Primeiros desafios com .NET\Primeiros desafios com .NET\bin\Debug\netcoreapp3.1\Primeiros desafios com .NET.exe
+D:\Narde\Desafios-DIO .NET\Primeiros desafios com C#\Primeiros desafios com .NET\Primeiros desafios com .NET\bin\Debug\netcoreapp3.1\Primeiros desafios com .NET.deps.json
+D:\Narde\Desafios-DIO .NET\Primeiros desafios com C#\Primeiros desafios com .NET\Primeiros desafios com .NET\bin\Debug\netcoreapp3.1\Primeiros desafios com .NET.runtimeconfig.json
+D:\Narde\Desafios-DIO .NET\Primeiros desafios com C#\Primeiros desafios com .NET\Primeiros desafios com .NET\bin\Debug\netcoreapp3.1\Primeiros desafios com .NET.runtimeconfig.dev.json
+D:\Narde\Desafios-DIO .NET\Primeiros desafios com C#\Primeiros desafios com .NET\Primeiros desafios com .NET\bin\Debug\netcoreapp3.1\Primeiros desafios com .NET.dll
+D:\Narde\Desafios-DIO .NET\Primeiros desafios com C#\Primeiros desafios com .NET\Primeiros desafios com .NET\bin\Debug\netcoreapp3.1\Primeiros desafios com .NET.pdb
+D:\Narde\Desafios-DIO .NET\Primeiros desafios com C#\Primeiros desafios com .NET\Primeiros desafios com .NET\obj\Debug\netcoreapp3.1\Primeiros desafios com .NET.csproj.AssemblyReference.cache
+D:\Narde\Desafios-DIO .NET\Primeiros desafios com C#\Primeiros desafios com .NET\Primeiros desafios com .NET\obj\Debug\netcoreapp3.1\Primeiros desafios com .NET.GeneratedMSBuildEditorConfig.editorconfig
+D:\Narde\Desafios-DIO .NET\Primeiros desafios com C#\Primeiros desafios com .NET\Primeiros desafios com .NET\obj\Debug\netcoreapp3.1\Primeiros desafios com .NET.AssemblyInfoInputs.cache
+D:\Narde\Desafios-DIO .NET\Primeiros desafios com C#\Primeiros desafios com .NET\Primeiros desafios com .NET\obj\Debug\netcoreapp3.1\Primeiros desafios com .NET.AssemblyInfo.cs
+D:\Narde\Desafios-DIO .NET\Primeiros desafios com C#\Primeiros desafios com .NET\Primeiros desafios com .NET\obj\Debug\netcoreapp3.1\Primeiros desafios com .NET.csproj.CoreCompileInputs.cache
+D:\Narde\Desafios-DIO .NET\Primeiros desafios com C#\Primeiros desafios com .NET\Primeiros desafios com .NET\obj\Debug\netcoreapp3.1\Primeiros desafios com .NET.dll
+D:\Narde\Desafios-DIO .NET\Primeiros desafios com C#\Primeiros desafios com .NET\Primeiros desafios com .NET\obj\Debug\netcoreapp3.1\Primeiros desafios com .NET.pdb
+D:\Narde\Desafios-DIO .NET\Primeiros desafios com C#\Primeiros desafios com .NET\Primeiros desafios com .NET\obj\Debug\netcoreapp3.1\Primeiros desafios com .NET.genruntimeconfig.cache
