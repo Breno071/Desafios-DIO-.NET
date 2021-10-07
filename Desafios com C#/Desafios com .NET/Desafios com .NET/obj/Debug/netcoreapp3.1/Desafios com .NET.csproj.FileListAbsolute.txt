@@ -1,0 +1,14 @@
+D:\Narde\Desafios-DIO .NET\Desafios com C#\Desafios com .NET\Desafios com .NET\bin\Debug\netcoreapp3.1\Desafios com .NET.exe
+D:\Narde\Desafios-DIO .NET\Desafios com C#\Desafios com .NET\Desafios com .NET\bin\Debug\netcoreapp3.1\Desafios com .NET.deps.json
+D:\Narde\Desafios-DIO .NET\Desafios com C#\Desafios com .NET\Desafios com .NET\bin\Debug\netcoreapp3.1\Desafios com .NET.runtimeconfig.json
+D:\Narde\Desafios-DIO .NET\Desafios com C#\Desafios com .NET\Desafios com .NET\bin\Debug\netcoreapp3.1\Desafios com .NET.runtimeconfig.dev.json
+D:\Narde\Desafios-DIO .NET\Desafios com C#\Desafios com .NET\Desafios com .NET\bin\Debug\netcoreapp3.1\Desafios com .NET.dll
+D:\Narde\Desafios-DIO .NET\Desafios com C#\Desafios com .NET\Desafios com .NET\bin\Debug\netcoreapp3.1\Desafios com .NET.pdb
+D:\Narde\Desafios-DIO .NET\Desafios com C#\Desafios com .NET\Desafios com .NET\obj\Debug\netcoreapp3.1\Desafios com .NET.csproj.AssemblyReference.cache
+D:\Narde\Desafios-DIO .NET\Desafios com C#\Desafios com .NET\Desafios com .NET\obj\Debug\netcoreapp3.1\Desafios com .NET.GeneratedMSBuildEditorConfig.editorconfig
+D:\Narde\Desafios-DIO .NET\Desafios com C#\Desafios com .NET\Desafios com .NET\obj\Debug\netcoreapp3.1\Desafios com .NET.AssemblyInfoInputs.cache
+D:\Narde\Desafios-DIO .NET\Desafios com C#\Desafios com .NET\Desafios com .NET\obj\Debug\netcoreapp3.1\Desafios com .NET.AssemblyInfo.cs
+D:\Narde\Desafios-DIO .NET\Desafios com C#\Desafios com .NET\Desafios com .NET\obj\Debug\netcoreapp3.1\Desafios com .NET.csproj.CoreCompileInputs.cache
+D:\Narde\Desafios-DIO .NET\Desafios com C#\Desafios com .NET\Desafios com .NET\obj\Debug\netcoreapp3.1\Desafios com .NET.dll
+D:\Narde\Desafios-DIO .NET\Desafios com C#\Desafios com .NET\Desafios com .NET\obj\Debug\netcoreapp3.1\Desafios com .NET.pdb
+D:\Narde\Desafios-DIO .NET\Desafios com C#\Desafios com .NET\Desafios com .NET\obj\Debug\netcoreapp3.1\Desafios com .NET.genruntimeconfig.cache
