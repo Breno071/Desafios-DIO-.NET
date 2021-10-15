@@ -1,0 +1,16 @@
+D:\Narde\Desafios-DIO .NET\Desafios intermediários C#\Desafios intermediários .NET\Desafios intermediários .NET\bin\Debug\net5.0\Desafios intermediários .NET.exe
+D:\Narde\Desafios-DIO .NET\Desafios intermediários C#\Desafios intermediários .NET\Desafios intermediários .NET\bin\Debug\net5.0\Desafios intermediários .NET.deps.json
+D:\Narde\Desafios-DIO .NET\Desafios intermediários C#\Desafios intermediários .NET\Desafios intermediários .NET\bin\Debug\net5.0\Desafios intermediários .NET.runtimeconfig.json
+D:\Narde\Desafios-DIO .NET\Desafios intermediários C#\Desafios intermediários .NET\Desafios intermediários .NET\bin\Debug\net5.0\Desafios intermediários .NET.runtimeconfig.dev.json
+D:\Narde\Desafios-DIO .NET\Desafios intermediários C#\Desafios intermediários .NET\Desafios intermediários .NET\bin\Debug\net5.0\Desafios intermediários .NET.dll
+D:\Narde\Desafios-DIO .NET\Desafios intermediários C#\Desafios intermediários .NET\Desafios intermediários .NET\bin\Debug\net5.0\ref\Desafios intermediários .NET.dll
+D:\Narde\Desafios-DIO .NET\Desafios intermediários C#\Desafios intermediários .NET\Desafios intermediários .NET\bin\Debug\net5.0\Desafios intermediários .NET.pdb
+D:\Narde\Desafios-DIO .NET\Desafios intermediários C#\Desafios intermediários .NET\Desafios intermediários .NET\obj\Debug\net5.0\Desafios intermediários .NET.csproj.AssemblyReference.cache
+D:\Narde\Desafios-DIO .NET\Desafios intermediários C#\Desafios intermediários .NET\Desafios intermediários .NET\obj\Debug\net5.0\Desafios intermediários .NET.GeneratedMSBuildEditorConfig.editorconfig
+D:\Narde\Desafios-DIO .NET\Desafios intermediários C#\Desafios intermediários .NET\Desafios intermediários .NET\obj\Debug\net5.0\Desafios intermediários .NET.AssemblyInfoInputs.cache
+D:\Narde\Desafios-DIO .NET\Desafios intermediários C#\Desafios intermediários .NET\Desafios intermediários .NET\obj\Debug\net5.0\Desafios intermediários .NET.AssemblyInfo.cs
+D:\Narde\Desafios-DIO .NET\Desafios intermediários C#\Desafios intermediários .NET\Desafios intermediários .NET\obj\Debug\net5.0\Desafios intermediários .NET.csproj.CoreCompileInputs.cache
+D:\Narde\Desafios-DIO .NET\Desafios intermediários C#\Desafios intermediários .NET\Desafios intermediários .NET\obj\Debug\net5.0\Desafios intermediários .NET.dll
+D:\Narde\Desafios-DIO .NET\Desafios intermediários C#\Desafios intermediários .NET\Desafios intermediários .NET\obj\Debug\net5.0\ref\Desafios intermediários .NET.dll
+D:\Narde\Desafios-DIO .NET\Desafios intermediários C#\Desafios intermediários .NET\Desafios intermediários .NET\obj\Debug\net5.0\Desafios intermediários .NET.pdb
+D:\Narde\Desafios-DIO .NET\Desafios intermediários C#\Desafios intermediários .NET\Desafios intermediários .NET\obj\Debug\net5.0\Desafios intermediários .NET.genruntimeconfig.cache

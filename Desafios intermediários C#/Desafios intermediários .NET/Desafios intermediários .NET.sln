@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafios intermediários .NET", "Desafios intermediários .NET\Desafios intermediários .NET.csproj", "{04CD4A13-F44B-4652-9BC9-218BA8684BDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04CD4A13-F44B-4652-9BC9-218BA8684BDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04CD4A13-F44B-4652-9BC9-218BA8684BDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04CD4A13-F44B-4652-9BC9-218BA8684BDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04CD4A13-F44B-4652-9BC9-218BA8684BDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3AA36B1-D40B-43B9-A732-77B3BE7810D4}
+	EndGlobalSection
+EndGlobal

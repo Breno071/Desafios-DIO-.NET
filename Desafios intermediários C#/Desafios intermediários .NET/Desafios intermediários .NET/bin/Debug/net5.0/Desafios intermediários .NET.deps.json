@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Desafios intermediários .NET/1.0.0": {
+        "runtime": {
+          "Desafios intermediários .NET.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Desafios intermediários .NET/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
